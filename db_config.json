@@ -1,0 +1,20 @@
+{
+    "user": {
+        "host": "localhost",
+        "username": "root",
+        "password": "Sai",
+        "db": "taboola",
+        "charset": "utf8",
+        "port": 3306
+            },
+            
+     "prod": {
+        "host": "hjsdbkgj",
+        "username": "hjsdbkgj",
+        "password": "hjsdbkgj",
+        "db": "hjsdbkgj",
+        "charset": "utf8",
+        "port": 4334 
+            }
+            
+}
